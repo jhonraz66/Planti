@@ -1,7 +1,7 @@
 {
   "Configurations": [
     {
-      "Board": "ESP32_DEV",
+      "Board": "ESP32",
       "Version": "1.1",
       "Device": "30:C6:F7:24:AC:38",
       "URL": "https://example.com/images/Basic-OTA-Example-ESP32_DEV-1.0.0.bin"
