@@ -1,10 +1,5 @@
 {
-  "Configurations": [
-    {
-      "Board": "ESP32_DEV",
-      "Version": "1.1",
-      "Device": "30:C6:F7:24:AC:38",
-      "URL": "https://example.com/images/Basic-OTA-Example-ESP32_DEV-1.0.0.bin"
-    }
-  ]
+   "type": "Esp32-P",
+   "version": "1.0",
+   "url": "https://raw.githubusercontent.com/Proyectossole/GABINETEGC01/main/fw.bin"
 }
