@@ -1,13 +1,12 @@
 [
-{
+ {
    "type": "Planti-V1",
    "version": "0.8",
    "url": "https://raw.githubusercontent.com/jhonraz66/Planti/refs/heads/main/platiV1.ino.bin"
-},
-{
+ },
+ {
    "type": "Planti-V1.1",
    "version": "0.9",
    "url": "https://raw.githubusercontent.com/jhonraz66/Planti/refs/heads/main/platiV1.1.ino.bin"
-}
-
+ }
 ]
